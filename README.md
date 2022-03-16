@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿###Esto es el inicio de Reame
  #### Es la segunda version
  ##### Es la tercera version
@@ -68,3 +69,25 @@
  
 ### 2. Preparación:
 >>>>>>> bbd1ec33a00c13edb60fae59a20bf4b53a8e86d1
+=======
+ # GELATINA CON FRUTA
+ 
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/101123094/158699670-1941cfa9-3941-4afd-966f-1a51ba8d9b77.jpg" width="350">
+</p>
+  
+  ## 1. Ingredientes:
+
+  <div align="center">
+  
+| Rubro             | Puntaje extra     |
+| ----------------- | ----------------- |
+| Creatividad       | 3 participaciones |
+| Trabajo en equipo | 5 particioaciones |
+| Innovación        | 3 participaciones |
+| Complejidad       | 3 participaciones |
+
+</div>
+ 
+### 2. Preparación:
+>>>>>>> f73f235cce6ad360cdabba7d474386a45711e64e
