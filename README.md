@@ -1,5 +1,9 @@
-![gelatina_de_agua_32084_600](https://user-images.githubusercontent.com/101123094/158699670-1941cfa9-3941-4afd-966f-1a51ba8d9b77.jpg)
-﻿###Esto es el inicio de Reame
+﻿![gelatina_de_agua_32084_600](https://user-images.githubusercontent.com/101123094/158699670-1941cfa9-3941-4afd-966f-1a51ba8d9b77.jpg)
+ 
+ <p align="center">
+ # GELATINA CON FRUTA
+ </p>
+ 
  #### Es la segunda version
  ##### Es la tercera version
  ### Es la cuarta version
