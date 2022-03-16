@@ -8,4 +8,8 @@
  ### 2.  Sobre de gelatina  !!!!!!!!!!!
 ### Nuevo cambio desde Visual Studio de JL
 ### Otro mas de los cambios
+<<<<<<< HEAD
 #### es una modificacion de Sotelo
+=======
+### 2. Preparación:
+>>>>>>> 244295f5f2b8223f43e6526f18b862fb6c6bc1ac
