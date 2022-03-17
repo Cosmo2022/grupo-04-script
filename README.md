@@ -19,7 +19,7 @@
 
 </div>
   
-  ## 2. Prparación
+  ## 2. Preparación
 ### 1
 ### Pon a fuego una olla con agua y espera que hierva.
 
