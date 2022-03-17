@@ -18,17 +18,16 @@
 | Hojas de menta       | al gusto   |
 
 </div>
- #### Es la segunda version
- ##### Es la tercera version
- ### Es la cuarta version
- ### Es la quinta version
- ### Es la lista de la gelatina
- 
- ### 2.  Sobre de gelatina  !!!!!!!!!!!
-### Nuevo cambio desde Visual Studio de JL
-### Otro mas de los cambios
-<<<<<<< HEAD
-#### es una modificacion de Sotelo
-=======
-### 2. Preparación:
->>>>>>> 244295f5f2b8223f43e6526f18b862fb6c6bc1ac
+  
+  ## 2. Prparación
+### 1
+### Pon a fuego una olla con agua y espera que hierva.
+
+### 2
+### Seguidamente agrega los sobres de gelatina y déjalo al fuego 5 minutos, sin dejar de revolver, hasta que se haya disuelto por completo la gelatina, agregar fruta fresca al gusto.
+
+### 3
+### Deja reposar hasta que tome temperatura ambiente y refrigera un par horas hasta que cuaje. Puedes servir esta rica gelatina de agua con un poco de leche condensada y adornar con hojas de menta.
+
+
+
